@@ -1,4 +1,4 @@
-# Testes-de-hip-tese-em-Python-para-variaveis-numericas-e-categoricas
+# Testes-de-hipotese-em-Python-para-variaveis-numericas-e-categoricas
 
 Serão três testes de hipótese para variáveis numéricas, e um para variáveis categóricas.
 
